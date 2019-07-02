@@ -1,7 +1,7 @@
 import account from '@packages/account';
 
 document.getElementById('application').innerHTML = `
-  web: ${account.getName()}, welcome.
+  h5: ${account.getName()}, welcome.
 `
 
 // Array.from(['aaa']);

@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "setup": "lerna link && lerna bootstrap",
+    "dev": "lerna run dev --stream",
     "build": "lerna run build"
   },
   "author": "lsxyz7@gmail.com",

@@ -102,7 +102,7 @@ devServer = {
   allowedHosts: [],
   // contentBase: distPath,
   compress: true,
-  port: 8080,
+  port: 8081,
   hot: false,
   inline: false,
   publicPath: publicPath,
