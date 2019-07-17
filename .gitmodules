@@ -1,0 +1,3 @@
+[submodule "http-fetch-client"]
+	path = http-fetch-client
+	url = https://github.com/ignous/http-fetch-client.git

@@ -14,7 +14,8 @@
     "@babel/runtime": "^7.4.4",
     "@babel/runtime-corejs3": "^7.4.5",
     "@packages/account": "^1.0.0",
-    "core-js": "^3.0.1"
+    "core-js": "^3.0.1",
+    "http-fetch-client": "^2.0.4"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",

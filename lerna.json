@@ -2,7 +2,8 @@
   "lerna": "3.15.0",
   "packages": [
     "packages/*",
-    "clients/*"
+    "clients/*",
+    "http-fetch-client"
   ],
   "version": "1.0.0"
 }
